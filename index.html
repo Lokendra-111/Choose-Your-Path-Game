@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Choose Your Path</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Choose Your Path</h1>
+
+  <div class="main-menu">
+    <button class="menu" onclick="showLevels()" style="height: 65px; width:300px; font-size: 25px;">Start Game</button><br>
+    <button class="menu" onclick="toggleGameSettings()" style="height: 65px; width:300px; font-size: 25px;">Game Settings</button><br>
+    <button class="menu" onclick="showHelp()" style="height: 65px; width:300px; font-size: 25px;">Help</button>
+  </div>
+  
+  <div class="levels hidden">
+    <p style="text-align:center; font-size: 1.2rem; margin-bottom: 0.5rem;">Choose Difficulty</p>
+    <button onclick="selectLevel(3)">Easy</button>
+    <button onclick="selectLevel(6)">Medium</button>
+    <button onclick="selectLevel(10)">Hard</button>
+  </div>
+
+  <div class="counter hidden">Steps Remaining: <span id="stepsLeft"></span></div>
+  <div class="progress-bar hidden"><div class="progress"></div></div>
+  <div class="game hidden"></div>
+  <div class="message"></div>
+  <button class="restart hidden" onclick="location.reload()">Restart</button>
+  <button class="back-menu hidden" onclick="location.reload()">Back to Menu</button>
+<script src="script.js"></script>
+
+<audio id="bgMusic" src="background.mp3" loop autoplay></audio>
+
+</body>
+</html>
