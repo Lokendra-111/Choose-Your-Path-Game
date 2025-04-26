@@ -23,9 +23,12 @@ Built using pure **HTML**, **CSS**, and **JavaScript**.
 
 ## 🖼️ Screenshots
 
-> *(![Game Screenshot](![Screenshot 2025-04-26 095132](https://github.com/user-attachments/assets/38502624-9a5d-402f-a5ec-796ac507159b)
-)  
-> *(I can create placeholder text for screenshots if you want.)*
+>![Screenshot 2025-04-26 095132](https://github.com/user-attachments/assets/38502624-9a5d-402f-a5ec-796ac507159b)
+ 
+> ![Screenshot 2025-04-26 095149](https://github.com/user-attachments/assets/6873cdb3-1bd2-420f-b6f7-0d2ef76ad19c)
+> ![Screenshot 2025-04-26 095341](https://github.com/user-attachments/assets/766d6842-84b0-44dc-90eb-aed7501d10b7)
+
+
 
 ---
 
