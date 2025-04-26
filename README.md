@@ -1,4 +1,4 @@
-🎮 Game
+#🎮 Game
 
 A fast, fun, and addictive web-based game to challenge your reflexes!
 Built using pure HTML, CSS, and JavaScript.
