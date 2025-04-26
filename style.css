@@ -7,7 +7,7 @@
 body {
 
   font-family: 'Orbitron', sans-serif;
-  background-image: url(game.jpg);
+  background-image: url(Resources/game.jpg);
   background-size: cover;
   color: whitesmoke;
   display: flex;
