@@ -7,7 +7,7 @@ Built using pure **HTML**, **CSS**, and **JavaScript**.
 
 ## 🚀 Live Demo
 
-👉 [Click here to play the game!](https://lokendra-111.github.io/Game/)
+ [Click here to play the game!](https://lokendra-111.github.io/Game/)
 
 ---
 
@@ -33,9 +33,14 @@ Built using pure **HTML**, **CSS**, and **JavaScript**.
 - **Frontend**:
   - HTML5
   - CSS3
-  - JavaScript (ES6+)
+  - JavaScript
 
 ---
 
 ## 📂 Project Structure
 
+```plaintext
+Game/
+├── index.html
+├── style.css
+└── script.js
